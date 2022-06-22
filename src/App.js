@@ -12,7 +12,7 @@ const DEFAULT_EXPENSES = [
   { id: "e2", title: "New TV", amount: 799.49, date: new Date(2021, 2, 12) },
   {
     id: "e3",
-    title: "Car Insurance",
+    title: "Car Insurance modified",
     amount: 294.67,
     date: new Date(2021, 2, 28),
   },
